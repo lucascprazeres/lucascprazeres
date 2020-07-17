@@ -6,7 +6,7 @@
 
 If you don't know me yet, nice to meet you! My Lucas and i'm a brazilian junior developer 🇧🇷
 
-Here it comes some facts about me 
+Here it comes some facts about me:
 
 ◆ I ❤️ JavaScript and also TypeScript
 
