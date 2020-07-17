@@ -6,14 +6,14 @@
 
 If you don't know me yet, nice to meet you! My Lucas and i'm a brazilian junior developer 🇧🇷
 
-I love programming and my favorite programming language is **JavaScript** (and also **TypeScript**), as you can see on my repositories. However, i also feel confortable with another technologies, such as **Python** 🐍.
+Here it comes some facts about me 
 
-Furthermore, here it comes some facts about me:
+◆ I ❤️ JavaScript and also TypeScript
 
-- ⚛️ I'm currently the stack learning Nodejs, ReactJS and React Native
+◆ I'm a computer engineering undergraduate 💻📙
 
-- :octocat: I really like to help, so, if you want me to contribute to your open source project, just reach me out!
+◆ I like to learn by helping and being helped 🤝
 
-- 💻 I'm looking for an opportunity to join a developer team and create awesome solutions for real life problems 
+◆ I'm currently looking for an opportunity to join a developer team and create awesome sulutions for real life problems 🚀👨🏻‍💻
 
-- ☕ Also, i'm a coffee person
+◆ Also, i'm a coffee person ☕
