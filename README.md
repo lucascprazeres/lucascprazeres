@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Devs! I'm Lucas dos Prazeres</h1>
+<h1 align="center">Hey, Devs! I'm Lucas dos Prazeres 👨‍🚀</h1>
 <h3 align="center">A passionate brazilian full stack developer from Belém, PA 🇧🇷</h3>
 
 - 🔭 I’m currently working on **my portifolio 👨‍💻**
