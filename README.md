@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portifolio 👨‍💻**
 
-- I'm currently studying **NodeJS**, **React** & **React Native**
+- 🌱 I'm currently studying **NodeJS**, **React** & **React Native** ⚛️
 
 - 📝 I regulary write articles on [https://medium.com/@lucascprazeres](https://medium.com/@lucascprazeres)
 
