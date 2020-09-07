@@ -1,11 +1,12 @@
 <h1 align="center">Hey, Devs! I'm Lucas dos Prazeres 👨‍🚀</h1>
 <h3 align="center">A passionate brazilian full stack developer from Belém, PA 🇧🇷</h3>
+<h3 align="center">Oh, i'm also a SpaceSquad mentor at Rocketseat!</h3>
 
 - 🔭 I’m currently working on **my portifolio 👨‍💻**
 
 - 🌱 I'm currently studying **NodeJS**, **React** & **React Native** ⚛️
 
-- 📝 I regulary write articles on [https://medium.com/@lucascprazeres](https://medium.com/@lucascprazeres)
+- 📝 I regulary write articles on Medium
 
 - 📫 How to reach me **olucascosta@outlook.com**
 
