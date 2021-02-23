@@ -1,20 +1,24 @@
-<h1 align="center">Hey, Devs! I'm Lucas dos Prazeres 👨‍🚀</h1>
-<h3 align="center">A computer engineering undergraduate | Fullstack web developer | Rocketseat's Space Squad member from Belém, PA, 🇧🇷</h3>
+<h1 align="center">Hey, Devs! I'm Lucas Prazeres 👨‍🚀</h1>
+<h3 align="center">A passionate full stack developer from 🇧🇷.PA.Belém</h3>
+
+- 👨‍💻 I'm also a **Computer Engineering** undergraduated at UFPA
+- 🔥 My web development stack is **nodejs**, **Reactjs** and **React Native**
+- 📚 I'm currently studying **back-end** related concepts because I want to specialize in that.
+- 😄 I can help you with **HTML**, **CSS**, **JavaScript** and **TypeScript** (including the mentioned frameworks)
+- 🔎 I'm looking for **open source projets** in JavaScript/TypeScript to contribute
+- ⚡ Some fun facts about me: I 💜 ✏️ programming articles and watching Netflix 🎬
 
 <br/>
+<p align="center"><strong>You can send me an E-mail on <a href="">olucascosta@outlook.com</a><br/>or find me on this platforms below 👇</strong></p>
 
-<h3 align="center">This is my personal portifolio, so enjoy your ride :)</h3 align="center">
+---
 
-<br/>
+<div align=center>
+  <a href="https://www.linkedin.com/in/lucas-prazeres/">LinkedIn</a> |
+  <a href="https://discordapp.com/users/709883255557455982">Discord</a> |
+  <a href="https://app.rocketseat.com.br/me/lucas-prazeres">Rocketseat</a> |
+  <a href="https://dev.to/lucascprazeres">Dev.to</a> |
+  <a href="https://medium.com/@lucascprazeres">Medium</a>
+</div>
 
-<p style="font-size: 18px;text-align:center">If you want to get in touch, my e-mail is under my profile picture, my Discord is <strong>Lucas Prazeres#0573</strong> and you can also find me on these platforms 👇</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/lucas-prazeres" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucas-prazeres" height="20" width="20" /></a>
-<a href="https://instagram.com/_lucascprazeres" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_lucascprazeres" height="20" width="20" /></a>
-<a href="https://medium.com/lucascprazeres" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="lucascprazeres" height="20" width="20" /><a href="https://dev.to/lucascprazeres">
-<img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="bravemaster619's DEV Profile" height="25" width="20">
-</a>
-</a>
-</p>
 
