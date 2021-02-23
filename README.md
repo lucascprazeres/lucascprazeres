@@ -1,11 +1,12 @@
 <h1 align="center">Hey, Devs! I'm Lucas Prazeres 👨‍🚀</h1>
-<h3 align="center">A passionate full stack developer from 🇧🇷.PA.Belém</h3>
+<h3 align="center">A full stack developer | Computer Engineering undergraduate from 🇧🇷.PA.Belém</h3>
 
-- 👨‍💻 I'm also a **Computer Engineering** undergraduated at UFPA
 - 🔥 My web development stack is **nodejs**, **Reactjs** and **React Native**
+
 - 📚 I'm currently studying **back-end** related concepts because I want to specialize in that.
+
 - 😄 I can help you with **HTML**, **CSS**, **JavaScript** and **TypeScript** (including the mentioned frameworks)
-- 🔎 I'm looking for **open source projets** in JavaScript/TypeScript to contribute
+
 - ⚡ Some fun facts about me: I 💜 ✏️ programming articles and watching Netflix 🎬
 
 <br/>
