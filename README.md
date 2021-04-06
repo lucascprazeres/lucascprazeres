@@ -1,7 +1,7 @@
 <h1 align="center">Hey, Devs. I'm Lucas Prazeres!</h1>
-<h4 align="center">A full stack developer | Computer Engineering undergraduate from 🇧🇷.PA.Belém</h4>
+<h3 align="center">A full stack developer | Computer Engineering undergraduate from 🇧🇷.PA.Belém</h3>
 
-<h3>I have experience with...</h3>
+<h4>I have experience with...</h4>
 
 
 <div>
@@ -20,12 +20,12 @@
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<h3>I'm studying...</h3>
+<h4>I'm studying...</h4>
 <div>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/></div>
-<h3>I'm looking forward to learn...</h3>
+<h4>I'm looking forward to learn...</h4>
 
 <div>
 <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
